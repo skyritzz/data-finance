@@ -32,7 +32,6 @@ const Navbar = () => {
                   <li className='p-4 border-b border-gray-600'>Contact</li>
               </ul>
         </div>
-
     </div>
   )
 }
